@@ -1,0 +1,22 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+	<title>New Project</title>
+	<defs>
+		<image  width="57" height="64" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAABACAMAAACX6y++AAAAAXNSR0IB2cksfwAAAIdQTFRF////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgICAAAAAAAAAAAAAAAAAwMDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEOYxPAAAAC10Uk5TAADT/4oudWkgD+gDDAoOBZAI/gIGBAEnbpIqmxsL/UoJpbf8xvDiOPiymapMnlnP5AAAAVtJREFUeJztlllXxCAMhbmD27jbOu467o7L//99FigtENop1xfP0fvUk+QrgUBAqV8lNKJBCsVMa71BoNjURgy5RZPbNLlDk3OahAF3GXKPHnOfJg8mkQjkTYcxmQlJrN6Do4DMBVi7K4DTcevCSUdaSxXEBGitQ1U29NQHwRWoVx2lG/saAAv/cSZ80RLVifu8/RlwMQpmRtVwiQuzKFO3bj5kJvIfahIQbK8qV8vsH+R6TduEKVrQx4DLALwq2fXRoEXHBbjuwJuygxYMWnhC/ww5J8kf1POWJMW+ncxlzsoaYPCAZnutBAUXs2um5nWXNr6pDcwEjqPCv/SWe+BhBE3Bx366dmpPQ6hsOyGp5LKFqLirbKx6dkEZfxbt81Avrz5qAMzuC5vXW/lt311IpWBDrmjynSTb9xBFmol+cC/jT60X1GvcDMq+479oEiuSVAU3rkBZ8F9W309QDmKVenP9AAAAAElFTkSuQmCC"/>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="32" y1="0.75" x2="32" y2="-8.25">
+			<stop offset="0" stop-color="#8a00a3"  />
+			<stop offset="1" stop-color="#0e00ac"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.txt0 { font-size: 24px;fill: #ff0000;font-weight: 400;font-family: "FredokaOne-Regular", "Fredoka One" } 
+		.txt1 { font-size: 10px;fill:  url(#grd1);font-weight: 400;font-family: "LuckiestGuy-Regular", "Luckiest Guy" } 
+	</style>
+	<use id="Layer 1" href="#img1" x="3" y="0" />
+	<text id="CT " style="transform: matrix(1,0,0,1,20.75,64)" >
+		<tspan x="0" y="0" class="txt0">T</tspan>
+	</text>
+	<text id="Darkness-CM " style="transform: matrix(1,0,0,1,0,10.25)" >
+		<tspan x="0" y="0" class="txt1">Darkness-CM</tspan>
+	</text>
+</svg>
